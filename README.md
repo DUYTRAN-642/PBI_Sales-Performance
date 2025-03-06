@@ -158,15 +158,4 @@ This project significantly enhanced my skills in:
   Analyze customer data to tailor targeted marketing strategies.
 * **Seasonal Trends:**  
   Investigate the cause of the Q4 return spike to optimize seasonal strategies.
-
 ---
-
-## Getting Started
-
-To set up the project locally:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
-   cd superstore-sales-analysis
