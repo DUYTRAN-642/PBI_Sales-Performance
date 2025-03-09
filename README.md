@@ -90,13 +90,21 @@ This project analyzes Superstore's sales data to:
 * **Product Insights:**  
   * *Technology* (especially phones) and *Furniture* were top performers.
   * *Office Supplies* had the lowest sales with the highest return rates.
+
+![image](https://github.com/user-attachments/assets/7ee7c039-29e4-437f-85ea-d2f74de5ced5)
+ 
 * **Salesperson Performance:**  
   * Anna Andreadi emerged as the top seller.
   * Jack Lebron was notable for high profitability.
   * Deborah Brumfield and Nicole maintained a perfect returns record.
+ 
+![image](https://github.com/user-attachments/assets/d5f17716-e081-40ef-8a96-873b76068b75)
+ 
 * **Return Analysis:**  
   * *Office Supplies* recorded a disproportionate number of returns.
   * A significant spike in returns occurred during Q4.
+
+![image](https://github.com/user-attachments/assets/20944f45-41da-4f85-b20e-7414ed47ac32)
 
 ---
 
