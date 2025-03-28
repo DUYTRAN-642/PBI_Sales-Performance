@@ -166,7 +166,7 @@ values = SUMX(
 )
 ```
 
-     * 2 measures was also deployed to show on KPI card `Returns per 1000 Orders` and  `Returns per 1000 customers`
+  * 2 measures was also deployed to show on KPI card `Returns per 1000 Orders` and  `Returns per 1000 customers`
        
 8.  **Order Processing Time Analysis:** Calculating and analyzing the average order processing time.
 9.  **Visualization and Reporting:** Creating visualizations and reports to communicate key findings and insights to stakeholders.
