@@ -12,15 +12,15 @@ Tools Used: Power BI
 
 # Table of Contents
 
-📌 [Background & Overview](#background--overview)
+📌 [Background & Overview](#-background--overview)
 
-📂 [Dataset Description & Data Structure](#dataset-description--data-structure)
+📂 [Dataset Description & Data Structure](#-dataset-description--data-structure)
 
-⚒️ [Main Process](#main-process)
+⚒️ [Main Process](#-main-process)
 
-📊 [Key Insights & Visualizations](#key-insights--visualizations)
+📊 [Key Insights & Visualizations](#-key-insights--visualizations)
 
-🔎 [Final Conclusion and Skills Improvement](#final-conclusion-and-skills-improvement)
+🔎 [Final Conclusion and Skills Improvement](#-final-conclusion-and-skills-improvement)
 
 ---
 
@@ -146,25 +146,26 @@ The main process involved:
 2.  **Sales Analysis:** Analyzing sales data to identify trends, patterns, and key performance indicators (KPIs) such as total sales, total revenue, total profit, and profit margin.
    DAX was applied to calculate the new columns of `Processing Time` and `Profit Margin` to support for the analysis
 
-                ```DAX
-               Processing Time = Orders[Ship Date] - Orders[Order Date]
-               ```
-               
-               ```DAX
-               Profit Margin = Orders[Profit] / Orders[Sales]
-               ```
+  ```DAX
+  Processing Time = Orders[Ship Date] - Orders[Order Date]
+  ```
+                 
+  ```DAX
+  Profit Margin = Orders[Profit] / Orders[Sales]
+  ```                
 
 4.  **Market and Segment Analysis:** Examining sales performance across different markets and customer segments to identify high-performing and underperforming areas.
 5.  **Category and Sub-Category Analysis:** Analyzing sales and profitability by product category and sub-category to identify profitable products and areas for improvement.
 6.  **Return Analysis:** Analyzing return data to understand the reasons for returns, identify products with high return rates, and calculate return metrics.
    * Values of each returned order was calculated by using DAX
 
-              ```DAX
-              values = SUMX(
-                  FILTER(Orders, Orders[Order ID] = Returns[Order ID]),
-                  Orders[Sales]
-              )
-              ```
+```DAX
+values = SUMX(
+    FILTER(Orders, Orders[Order ID] = Returns[Order ID]),
+    Orders[Sales]
+)
+```
+
      * 2 measures was also deployed to show on KPI card `Returns per 1000 Orders` and  `Returns per 1000 customers`
        
 8.  **Order Processing Time Analysis:** Calculating and analyzing the average order processing time.
