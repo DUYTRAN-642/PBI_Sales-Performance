@@ -12,17 +12,15 @@ Tools Used: Power BI
 
 # Table of Contents
 
-📌 Background & Overview
+📌 [Background & Overview](#background--overview)
 
-📂 Dataset Description & Data Structure
+📂 [Dataset Description & Data Structure](#dataset-description--data-structure)
 
-🧠 Design Thinking Process
+⚒️ [Main Process](#main-process)
 
-⚒️ Main Process
+📊 [Key Insights & Visualizations](#key-insights--visualizations)
 
-📊 Key Insights & Visualizations
-
-🔎 Final Conclusion and Future Enhancements
+🔎 [Final Conclusion and Skills Improvement](#final-conclusion-and-skills-improvement)
 
 ---
 
@@ -191,7 +189,15 @@ The main process involved:
 * **Profitability:**
     * Copiers are a high-profit sub-category. 
 * **Efficiency:**
-    * The average order processing time is 3.97 days. 
+    * The average order processing time is 3.97 days.
+ 
+=> **Recommendations:**
+
+* Capitalize on APAC's success; improve Africa's performance.
+* Support technology products; analyze Furniture and Office Supplies.
+* Focus on the Consumer segment.
+* Maintain focus on Copiers; apply learnings to other sub-categories.
+* Explore opportunities to reduce order processing time.
 
 ### 📌 Page 2: Sales Analysis
 
@@ -205,23 +211,44 @@ The main process involved:
 * **Sales Performance by Individual:**
     * Sales performance varies considerably between salespersons, with some generating significantly higher sales than others (e.g., Anna Andreadi with 2,822,303). [cite: 10]
 
+=> **Recommendations:**
+
+* Review Tables sub-category; consider restructuring if needed.
+* Analyze top-performing salespersons' strategies; train underperformers.
+
 ### 📌 Page 3: Return Analysis
 
+![image](https://github.com/user-attachments/assets/bf2c00f8-ce43-43b8-a601-3e857e8f14fc)
+
 * **Return Volume and Value:**
-    * There were 1172 orders returned, totaling $819,020 in returns. [cite: 12]
+    * There were 1172 orders returned, totaling $819,020 in returns. 
 * **Return Rate:**
-    * The return rate is 46.81 per 1000 orders. [cite: 12]
+    * The return rate is 46.81 per 1000 orders. 
 * **Returns by Salesperson:**
-    * Return rates differ substantially across salespersons (e.g., Shirley Daniels with 13.8%). [cite: 13]
+    * Return rates differ substantially across salespersons (e.g., Shirley Daniels with 13.8%).
 * **Returns by Customer Segment:**
-    * The Consumer segment also leads in the number of returns (606). [cite: 14]
+    * The Consumer segment also leads in the number of returns (606). 
 * **Returns by Product Category:**
-    * Office Supplies have the highest return volume. [cite: 14]
+    * Office Supplies have the highest return volume.
+
+=> **Recommendations:**
+
+* Investigate return causes; implement quality control and improve descriptions.
+* Decrease the return rate.
+* Train sales staff on product handling and customer communication.
+* Analyze return patterns within the Consumer segment.
+* Investigate high return volumes in Office Supplies; focus on quality and packaging.
 ---
+
+# 🔎 Final Conclusion and Skills Improvement
+
+##   Final Conclusions
+
+➡️🎯 The project analyses sales, profitability, and returns across markets, categories, segments, and salespersons reveals key insights for optimizing business strategies and enhancing performance. The project contributes actionable intelligence for improving market strategies, product portfolios, customer engagement, and salesforce effectiveness, while also providing data-driven recommendations for return management. Ultimately, these findings equip decision-makers to enhance profitability, streamline operations, and increase customer satisfaction.
 
 ## Skills Improvement
 
-This project significantly enhanced my skills in:
+This project significantly enhanced my skills 👌👌👌in:
 
 * **Data Visualization:**  
   * Mastering the selection of the right chart types (*bar*, *pie*, *line*) to present data effectively.
@@ -233,29 +260,3 @@ This project significantly enhanced my skills in:
 * **Strategic Thinking:**  
   * Balancing quantitative analysis with strategic recommendations.
   * Enhancing insights through targeted investigations (e.g., return spikes during Q4).
-
----
-
-## Recommendations
-
-* **Product Focus:**  
-  * Capitalize on the performance of *Technology* products.
-  * Address persistent issues with high return rates in *Office Supplies*.
-* **Profitability Enhancements:**  
-  * Implement strategies to drive profitability across all categories.
-* **Internal Synergy:**  
-  * Leverage insights from top-performing salespeople.
-* **Market Targeting:**  
-  * Prioritize expansion in the EU and APAC regions based on current trends.
-
----
-
-## Next Steps
-
-* **Office Supplies Analysis:**  
-  Initiate a detailed investigation into the reasons behind high *Office Supplies* returns.
-* **Customer Segmentation:**  
-  Analyze customer data to tailor targeted marketing strategies.
-* **Seasonal Trends:**  
-  Investigate the cause of the Q4 return spike to optimize seasonal strategies.
----
