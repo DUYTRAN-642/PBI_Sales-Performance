@@ -202,7 +202,7 @@ values = SUMX(
 
 ### 📌 Page 2: Sales Analysis
 
-![image](https://github.com/user-attachments/assets/063b140d-792d-4bb9-b860-6072ae13d411)
+![image](https://github.com/user-attachments/assets/3b0e4d9b-fadd-4003-800e-44589fd30a7f)
 
 * **Profitability by Product:**
     * Profit margins vary significantly across sub-categories. 
@@ -219,7 +219,7 @@ values = SUMX(
 
 ### 📌 Page 3: Return Analysis
 
-![image](https://github.com/user-attachments/assets/3b0e4d9b-fadd-4003-800e-44589fd30a7f)
+![image](https://github.com/user-attachments/assets/3d358f0f-cce2-4d63-aa18-9be32c6fd9f5)
 
 * **Return Volume and Value:**
     * There were 1172 orders returned, totaling $819,020 in returns. 
