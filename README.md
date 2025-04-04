@@ -177,7 +177,7 @@ values = SUMX(
 
 ### 📌 Page 1: Sales Overview
 
-![image](https://github.com/user-attachments/assets/1d06cdbd-d862-428a-b979-fcbb7dfd07ee)
+![image](https://github.com/user-attachments/assets/c19ddd71-77ed-4fcc-aaba-2486af4f6694)
 
 * **Overall Performance:** The business generated 13M in revenue with 1.5M in profit from 25,035 orders.
 * **Market Analysis:**
@@ -219,7 +219,7 @@ values = SUMX(
 
 ### 📌 Page 3: Return Analysis
 
-![image](https://github.com/user-attachments/assets/bf2c00f8-ce43-43b8-a601-3e857e8f14fc)
+![image](https://github.com/user-attachments/assets/3b0e4d9b-fadd-4003-800e-44589fd30a7f)
 
 * **Return Volume and Value:**
     * There were 1172 orders returned, totaling $819,020 in returns. 
